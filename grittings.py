@@ -1,2 +1,2 @@
 def greeting(name):
-    print("Welcome " + name)
+    print("welcome " + name)
